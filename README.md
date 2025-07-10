@@ -62,21 +62,13 @@ The 8-puzzle is a 3x3 sliding puzzle with tiles numbered 1 through 8 and one emp
 
 ## 📝 How to Use
 
-1. **Compile the project:**
-
-```bash
-gcc 8puzzleAI.c -o 8puzzleAI
-```
-
-> On Windows, make sure to use a terminal that supports ANSI escape codes (or remove color codes from the code).
-
-2. **Run the executable:**
+1. **Run the executable:**
 
 ```bash
 ./8puzzleAI
 ```
 
-3. **Choose the mode:**
+2. **Choose the mode:**
 
 - `1`: Manual mode — play the puzzle using W, A, S, D keys
 - `2`: A* algorithm will solve the puzzle step-by-step
